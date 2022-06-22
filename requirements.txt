@@ -4,4 +4,4 @@ Unidecode==1.1.1
 dill==0.3.1.1
 scikit-learn==0.22.1
 scipy==1.4.1
-numpy==1.18.1
+numpy==1.22.0
